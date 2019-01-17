@@ -1,0 +1,1 @@
+* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
